@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/avinlnx/catkin_ws/install/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/avinlnx/catkin_ws/devel/include/**",
+        "/home/avinlnx/raspi_teleop/src/campixy/include/**",
+        "/home/avinlnx/raspi_teleop/src/raspi_teleop/include/**",
+        "/home/avinlnx/raspi_teleop/src/takeoffFix/include/**",
+        "/home/avinlnx/raspi_teleop/src/teleopfix/include/**",
+        "/usr/include/**",
+        //add uh da librery
+        "/home/avinlnx/pixy2/src/host/libpixyusb2/include/**",
+        "/home/avinlnx/pixy2/src/host/arduino/libraries/Pixy2/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
